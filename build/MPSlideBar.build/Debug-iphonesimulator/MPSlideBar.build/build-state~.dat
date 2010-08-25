@@ -1,0 +1,454 @@
+TMPSlideBar
+v7
+r0
+t304403337.938346
+cCheck dependencies
+cProcessInfoPlistFile /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/Info.plist MPSlideBar-Info.plist
+cCompileXIB /Users/macuser/MPSlideBar/MainWindow.xib
+cCompileXIB /Users/macuser/MPSlideBar/MPSlideBarViewController.xib
+cCpResource build/Debug-iphonesimulator/MPSlideBar.app/1.jpg images/1.jpg
+cCpResource build/Debug-iphonesimulator/MPSlideBar.app/2.jpg images/2.jpg
+cCpResource build/Debug-iphonesimulator/MPSlideBar.app/3.jpg images/3.jpg
+cCpResource build/Debug-iphonesimulator/MPSlideBar.app/4.jpg images/4.jpg
+cCpResource build/Debug-iphonesimulator/MPSlideBar.app/5.jpg images/5.jpg
+cCpResource build/Debug-iphonesimulator/MPSlideBar.app/6.jpg images/6.jpg
+cProcessPCH /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch.gch MPSlideBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/main.o /Users/macuser/MPSlideBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarAppDelegate.o /Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarViewController.o /Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/CustomView.o /Users/macuser/MPSlideBar/src/CustomView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/Thumbnail.o /Users/macuser/MPSlideBar/src/Thumbnail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar normal i386
+cGenerateDSYMFile /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app.dSYM /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar
+cTouch /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C201ED10000000000000132
+t1277173457
+s306
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.h
+c000000004C7482AC00000000000001EA
+t1282704044
+s490
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m
+c000000004C7482AC0000000000000A93
+t1282704044
+s2707
+i"MPSlideBarAppDelegate.h"
+i"MPSlideBarViewController.h"
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.h
+c000000004C74962C0000000000000156
+t1282709036
+s342
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m
+c000000004C749BE50000000000000786
+t1282710501
+s1926
+i"MPSlideBarViewController.h"
+i"CustomView.h"
+
+N/Users/macuser/MPSlideBar/MPSlideBarViewController.xib
+c000000004C7482AC0000000000001A51
+t1282704044
+s6737
+
+N/Users/macuser/MPSlideBar/MPSlideBar_Prefix.pch
+c000000004C7482AC00000000000000BD
+t1282704044
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/MainWindow.xib
+c000000004C7482AC0000000000004E4D
+t1282704044
+s20045
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app
+t1282710537
+s442
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app.dSYM
+t1282710537
+s102
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/1.jpg
+t1282710531
+s30394
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/2.jpg
+t1282710531
+s36025
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/3.jpg
+t1282710531
+s19386
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/4.jpg
+t1282710531
+s16317
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/5.jpg
+t1282710531
+s17127
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/6.jpg
+t1282710531
+s10421
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/Info.plist
+t1282710527
+s603
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar
+t1282710537
+s30676
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBarViewController.nib
+t1282710530
+s795
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MainWindow.nib
+t1282710530
+s1129
+
+N/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/PkgInfo
+t1282710527
+s8
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/CustomView.o
+t1282710537
+s54644
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBar.LinkFileList
+c000000004C749BFE000000000000026F
+t1282710526
+s623
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarAppDelegate.o
+t1282710536
+s47976
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarViewController.o
+t1282710537
+s39840
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/Thumbnail.o
+t1282710537
+s39280
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/main.o
+t1282710536
+s6292
+
+N/Users/macuser/MPSlideBar/images/1.jpg
+c000000004C7495BB00000000000076BA
+t1282708923
+s30394
+
+N/Users/macuser/MPSlideBar/images/2.jpg
+c000000004C74950C0000000000008CB9
+t1282708748
+s36025
+
+N/Users/macuser/MPSlideBar/images/3.jpg
+c000000004C7494D90000000000004BBA
+t1282708697
+s19386
+
+N/Users/macuser/MPSlideBar/images/4.jpg
+c000000004C7494C70000000000003FBD
+t1282708679
+s16317
+
+N/Users/macuser/MPSlideBar/images/5.jpg
+c000000004C7494F400000000000042E7
+t1282708724
+s17127
+
+N/Users/macuser/MPSlideBar/images/6.jpg
+c000000004C7494E600000000000028B5
+t1282708710
+s10421
+
+N/Users/macuser/MPSlideBar/main.m
+c000000004C7482AC0000000000000165
+t1282704044
+s357
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/src/CustomView.h
+c000000004C749A580000000000000271
+t1282710104
+s625
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/src/CustomView.m
+c000000004C749BBE0000000000001104
+t1282710462
+s4356
+i"CustomView.h"
+i<QuartzCore/QuartzCore.h>
+i"Thumbnail.h"
+
+N/Users/macuser/MPSlideBar/src/Thumbnail.h
+c000000004C6D9E4C0000000000000143
+t1282252364
+s323
+i<Foundation/Foundation.h>
+
+N/Users/macuser/MPSlideBar/src/Thumbnail.m
+c000000004C749BFE000000000000078F
+t1282710526
+s1935
+i"Thumbnail.h"
+
+N/var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch.gch
+t1282710536
+s15227920
+
+NMPSlideBar-Info.plist
+c000000004C7482AC000000000000038D
+t1282704044
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304403326#304403327#0(0"0(0#1#0"8749506752#0"0#
+
+CCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/CustomView.o /Users/macuser/MPSlideBar/src/CustomView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304403336.937776
+e304403337.297312
+r1
+xCompileC
+xbuild/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/CustomView.o
+x/Users/macuser/MPSlideBar/src/CustomView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macuser/MPSlideBar/src/CustomView.m: In function '-[CustomView setupView:]':
+o/Users/macuser/MPSlideBar/src/CustomView.m:150: warning: passing argument 1 of 'imageWithCGImage:' from incompatible pointer type
+o/Users/macuser/MPSlideBar/src/CustomView.m: At top level:
+o/Users/macuser/MPSlideBar/src/CustomView.m:187: warning: incomplete implementation of class 'CustomView'
+o/Users/macuser/MPSlideBar/src/CustomView.m:187: warning: method definition for '-setupView' not found
+lSLF07#2@50"Compile /Users/macuser/MPSlideBar/src/CustomView.m304403336#304403337#0(479"/Users/macuser/MPSlideBar/src/CustomView.m: In function '-[CustomView setupView:]':/Users/macuser/MPSlideBar/src/CustomView.m:150: warning: passing argument 1 of 'imageWithCGImage:' from incompatible pointer type/Users/macuser/MPSlideBar/src/CustomView.m: At top level:/Users/macuser/MPSlideBar/src/CustomView.m:187: warning: incomplete implementation of class 'CustomView'/Users/macuser/MPSlideBar/src/CustomView.m:187: warning: method definition for '-setupView' not found4(22@72"Passing argument 1 of 'imageWithCGImage:' from incompatible pointer type304403337#84#130#0(6@42"/Users/macuser/MPSlideBar/src/CustomView.m304403262#150#0#150#0#56"passing argument * of '*' from incompatible pointer type0(23@13"At top level:304403337#214#58#0(6@42"/Users/macuser/MPSlideBar/src/CustomView.m304403262#0#0#0#0#0"0(22@47"Incomplete implementation of class 'CustomView'304403337#272#105#0(6@42"/Users/macuser/MPSlideBar/src/CustomView.m304403262#187#0#187#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-setupView' not found304403337#377#102#0(6@42"/Users/macuser/MPSlideBar/src/CustomView.m304403262#187#0#187#0#35"method definition for '*' not found0(0#0#42"/Users/macuser/MPSlideBar/src/CustomView.m8748982720#1854"    cd /Users/macuser/MPSlideBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk" -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-generated-files.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-own-target-headers.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-all-target-headers.hmap -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-project-headers.hmap -F/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -I/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/include -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources/i386 -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources -include /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch -c /Users/macuser/MPSlideBar/src/CustomView.m -o /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/CustomView.o0#
+
+CCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarAppDelegate.o /Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304403336.825978
+e304403336.937672
+r1
+xCompileC
+xbuild/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarAppDelegate.o
+x/Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m304403336#304403336#0(0"0(0#0#57"/Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m8795955264#1880"    cd /Users/macuser/MPSlideBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk" -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-generated-files.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-own-target-headers.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-all-target-headers.hmap -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-project-headers.hmap -F/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -I/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/include -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources/i386 -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources -include /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch -c /Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m -o /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarAppDelegate.o0#
+
+CCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarViewController.o /Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304403336.901600
+e304403337.095144
+r1
+xCompileC
+xbuild/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarViewController.o
+x/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m: In function '-[MPSlideBarViewController viewDidLoad]':
+o/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: 'CustomView' may not respond to '-startSetupWithArray:'
+o/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: (Messages without a matching method signature
+o/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: will be assumed to return 'id' and accept
+o/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: '...' as arguments.)
+lSLF07#2@68"Compile /Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m304403336#304403337#0(578"/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m: In function '-[MPSlideBarViewController viewDidLoad]':/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: 'CustomView' may not respond to '-startSetupWithArray:'/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: (Messages without a matching method signature/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: will be assumed to return 'id' and accept/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m:43: warning: '...' as arguments.)2(22@55"'CustomView' may not respond to '-startSetupWithArray:'304403336#117#130#0(6@60"/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m304403301#43#0#43#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)304403336#247#120#0(6@60"/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m304403301#43#0#43#0#0"0(0#0#60"/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m8776879840#1886"    cd /Users/macuser/MPSlideBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk" -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-generated-files.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-own-target-headers.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-all-target-headers.hmap -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-project-headers.hmap -F/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -I/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/include -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources/i386 -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources -include /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch -c /Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m -o /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBarViewController.o0#
+
+CCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/Thumbnail.o /Users/macuser/MPSlideBar/src/Thumbnail.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304403337.095233
+e304403337.189593
+r1
+xCompileC
+xbuild/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/Thumbnail.o
+x/Users/macuser/MPSlideBar/src/Thumbnail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/macuser/MPSlideBar/src/Thumbnail.m304403337#304403337#0(0"0(0#0#41"/Users/macuser/MPSlideBar/src/Thumbnail.m8731318880#1852"    cd /Users/macuser/MPSlideBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk" -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-generated-files.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-own-target-headers.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-all-target-headers.hmap -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-project-headers.hmap -F/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -I/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/include -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources/i386 -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources -include /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch -c /Users/macuser/MPSlideBar/src/Thumbnail.m -o /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/Thumbnail.o0#
+
+CCompileC build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/main.o /Users/macuser/MPSlideBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304403336.803223
+e304403336.901502
+r1
+xCompileC
+xbuild/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/main.o
+x/Users/macuser/MPSlideBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Users/macuser/MPSlideBar/main.m304403336#304403336#0(0"0(0#0#32"/Users/macuser/MPSlideBar/main.m8814646016#1838"    cd /Users/macuser/MPSlideBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk" -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-generated-files.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-own-target-headers.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-all-target-headers.hmap -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-project-headers.hmap -F/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -I/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/include -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources/i386 -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources -include /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch -c /Users/macuser/MPSlideBar/main.m -o /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/macuser/MPSlideBar/MPSlideBarViewController.xib
+s304403327.162400
+e304403331.009998
+r1
+xCompileXIB
+x/Users/macuser/MPSlideBar/MPSlideBarViewController.xib
+lSLF07#2@39"CompileXIB MPSlideBarViewController.xib304403327#304403331#0(0"0(0#0#54"/Users/macuser/MPSlideBar/MPSlideBarViewController.xib8710947296#582"    cd /Users/macuser/MPSlideBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBarViewController.nib /Users/macuser/MPSlideBar/MPSlideBarViewController.xib --sdk "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk"0#
+
+CCompileXIB /Users/macuser/MPSlideBar/MainWindow.xib
+s304403327.061791
+e304403331.016961
+r1
+xCompileXIB
+x/Users/macuser/MPSlideBar/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304403327#304403331#0(0"0(0#0#40"/Users/macuser/MPSlideBar/MainWindow.xib8711995456#554"    cd /Users/macuser/MPSlideBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MainWindow.nib /Users/macuser/MPSlideBar/MainWindow.xib --sdk "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk"0#
+
+CCpResource build/Debug-iphonesimulator/MPSlideBar.app/1.jpg images/1.jpg
+s304403331.010393
+e304403331.053240
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MPSlideBar.app/1.jpg
+ximages/1.jpg
+lSLF07#2@17"Copy images/1.jpg304403331#304403331#0(0"0(0#0#38"/Users/macuser/MPSlideBar/images/1.jpg8787540448#434"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/macuser/MPSlideBar/images/1.jpg /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app0#
+
+CCpResource build/Debug-iphonesimulator/MPSlideBar.app/2.jpg images/2.jpg
+s304403331.011359
+e304403331.053346
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MPSlideBar.app/2.jpg
+ximages/2.jpg
+lSLF07#2@17"Copy images/2.jpg304403331#304403331#0(0"0(0#0#38"/Users/macuser/MPSlideBar/images/2.jpg8785363936#434"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/macuser/MPSlideBar/images/2.jpg /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app0#
+
+CCpResource build/Debug-iphonesimulator/MPSlideBar.app/3.jpg images/3.jpg
+s304403331.012112
+e304403331.077728
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MPSlideBar.app/3.jpg
+ximages/3.jpg
+lSLF07#2@17"Copy images/3.jpg304403331#304403331#0(0"0(0#0#38"/Users/macuser/MPSlideBar/images/3.jpg8784127840#434"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/macuser/MPSlideBar/images/3.jpg /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app0#
+
+CCpResource build/Debug-iphonesimulator/MPSlideBar.app/4.jpg images/4.jpg
+s304403331.012853
+e304403331.053442
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MPSlideBar.app/4.jpg
+ximages/4.jpg
+lSLF07#2@17"Copy images/4.jpg304403331#304403331#0(0"0(0#0#38"/Users/macuser/MPSlideBar/images/4.jpg8783776128#434"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/macuser/MPSlideBar/images/4.jpg /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app0#
+
+CCpResource build/Debug-iphonesimulator/MPSlideBar.app/5.jpg images/5.jpg
+s304403331.014277
+e304403331.053540
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MPSlideBar.app/5.jpg
+ximages/5.jpg
+lSLF07#2@17"Copy images/5.jpg304403331#304403331#0(0"0(0#0#38"/Users/macuser/MPSlideBar/images/5.jpg8783515744#434"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/macuser/MPSlideBar/images/5.jpg /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app0#
+
+CCpResource build/Debug-iphonesimulator/MPSlideBar.app/6.jpg images/6.jpg
+s304403331.016088
+e304403331.080138
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MPSlideBar.app/6.jpg
+ximages/6.jpg
+lSLF07#2@17"Copy images/6.jpg304403331#304403331#0(0"0(0#0#38"/Users/macuser/MPSlideBar/images/6.jpg8782665856#434"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/macuser/MPSlideBar/images/6.jpg /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app0#
+
+CGenerateDSYMFile /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app.dSYM /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar
+s304403337.664755
+e304403337.885116
+r1
+xGenerateDSYMFile
+x/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app.dSYM
+x/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/MPSlideBar.app.dSYM build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar304403337#304403337#0(0"0(0#0#79"/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar8807591968#367"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/usr/bin/dsymutil" /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar -o /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app.dSYM0#
+
+CLd /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar normal i386
+s304403337.297391
+e304403337.664666
+r1
+xLd
+x/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar
+xnormal
+xi386
+lSLF07#2@84"Link /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar304403337#304403337#0(0"0(0#0#0"8821844288#892"    cd /Users/macuser/MPSlideBar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -arch i386 -isysroot "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk" -L/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -F/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -filelist /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/Objects-normal/i386/MPSlideBar.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/MPSlideBar0#
+
+CProcessInfoPlistFile /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/Info.plist MPSlideBar-Info.plist
+s304403326.979954
+e304403327.061701
+r1
+xProcessInfoPlistFile
+x/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/Info.plist
+xMPSlideBar-Info.plist
+lSLF07#2@29"Process MPSlideBar-Info.plist304403327#304403327#0(0"0(0#0#47"/Users/macuser/MPSlideBar/MPSlideBar-Info.plist8635427584#457"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MPSlideBar-Info.plist -genpkginfo /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app/Info.plist0#
+
+CProcessPCH /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch.gch MPSlideBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304403331.080225
+e304403336.802833
+r1
+xProcessPCH
+x/var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch.gch
+xMPSlideBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MPSlideBar_Prefix.pch304403331#304403336#0(0"0(0#0#47"/Users/macuser/MPSlideBar/MPSlideBar_Prefix.pch8817618848#1740"    cd /Users/macuser/MPSlideBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk" -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-generated-files.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-own-target-headers.hmap -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-all-target-headers.hmap -iquote /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/MPSlideBar-project-headers.hmap -F/Users/macuser/MPSlideBar/build/Debug-iphonesimulator -I/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/include -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources/i386 -I/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphonesimulator/MPSlideBar.build/DerivedSources -c /Users/macuser/MPSlideBar/MPSlideBar_Prefix.pch -o /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-aywcqhttkujljbfvbbjjkcjpcycu/MPSlideBar_Prefix.pch.gch0#
+
+CTouch /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app
+s304403337.885214
+e304403337.938184
+r1
+xTouch
+x/Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app
+lSLF07#2@74"Touch /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app304403337#304403337#0(0"0(0#0#0"8776865600#263"    cd /Users/macuser/MPSlideBar    setenv PATH "/Developer 4.0/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 4.0/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macuser/MPSlideBar/build/Debug-iphonesimulator/MPSlideBar.app0#
+

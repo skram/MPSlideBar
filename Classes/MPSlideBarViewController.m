@@ -7,10 +7,11 @@
 //
 
 #import "MPSlideBarViewController.h"
+#import "MPSlideBar.h"
 
 @implementation MPSlideBarViewController
 
-
+@synthesize slideBarView;
 
 /*
 // The designated initializer. Override to perform setup that is required before the view is loaded.
@@ -29,12 +30,24 @@
 */
 
 
-/*
+
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
+	
+	
+	slideBarView = [[MPSlideBar alloc] initWithFrame:CGRectMake(20, 10, 320, 44)];
+	slideBarView.center = toolBar.center;
+	
+	[slideBarView setupView:[NSMutableArray arrayWithObjects:[UIImage imageNamed:@"1.jpg"],[UIImage imageNamed:@"2.jpg"],
+							 [UIImage imageNamed:@"3.jpg"],[UIImage imageNamed:@"4.jpg"],[UIImage imageNamed:@"5.jpg"],[UIImage imageNamed:@"6.jpg"],nil]];
+		
+//	[self.view addSubview:slideBarView];
+	
+	UIBarButtonItem *button = [[UIBarButtonItem alloc] initWithCustomView:slideBarView];
+	[toolBar setItems:[NSArray arrayWithObjects:button,nil] animated:YES];
 }
-*/
+
 
 
 /*
@@ -55,6 +68,12 @@
 - (void)viewDidUnload {
 	// Release any retained subviews of the main view.
 	// e.g. self.myOutlet = nil;
+	
+	
+	
+	
+	
+	
 }
 
 

@@ -1,0 +1,523 @@
+TMPSlideBar
+v7
+r1
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C201EC30000000000000110
+t1277173443
+s272
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BF4B7F900000000000001A7
+t1274329081
+s423
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers/AssetsLibrary.h
+c000000004C0482940000000000000133
+t1275363988
+s307
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C0458CC00000000000000C4
+t1275353292
+s196
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C045AEF0000000000253180
+t1275353839
+s2437504
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/macuser/Library/MobileDevice/Provisioning Profiles/85D6E962-E683-4E1C-AF4F-A09366D2E58E.mobileprovision
+c000000004C244C690000000000002315
+t1277447273
+s8981
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.h
+c000000004C7482AC00000000000001EA
+t1282704044
+s490
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m
+c000000004C7482AC0000000000000A93
+t1282704044
+s2707
+i"MPSlideBarAppDelegate.h"
+i"MPSlideBarViewController.h"
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.h
+c000000004C74962C0000000000000156
+t1282709036
+s342
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m
+c000000004C749BE50000000000000786
+t1282710501
+s1926
+i"MPSlideBarViewController.h"
+i"CustomView.h"
+
+N/Users/macuser/MPSlideBar/CustomView.h
+c000000004C7435A700000000000002A0
+t1282684327
+s672
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/CustomView.m
+c000000004C7452CC00000000000016C6
+t1282691788
+s5830
+i"CustomView.h"
+i<QuartzCore/QuartzCore.h>
+i"UIImage+ColorAtPixel.h"
+i"Thumbnail.h"
+i"UIImageExtras.h"
+i<AssetsLibrary/AssetsLibrary.h>
+
+N/Users/macuser/MPSlideBar/MPSlideBarViewController.xib
+c000000004C7482AC0000000000001A51
+t1282704044
+s6737
+
+N/Users/macuser/MPSlideBar/MPSlideBar_Prefix.pch
+c000000004C7482AC00000000000000BD
+t1282704044
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/MainWindow.xib
+c000000004C7482AC0000000000004E4D
+t1282704044
+s20045
+
+N/Users/macuser/MPSlideBar/Thumbnail.h
+c000000004C6D9E4C0000000000000143
+t1282252364
+s323
+i<Foundation/Foundation.h>
+
+N/Users/macuser/MPSlideBar/Thumbnail.m
+c000000004C7435C400000000000007A9
+t1282684356
+s1961
+i"Thumbnail.h"
+i"UIImageExtras.h"
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app.dSYM
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/1.jpg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/2.jpg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/3.jpg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/4.jpg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/5.jpg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/6.jpg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/Info.plist
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/MPSlideBar
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/MPSlideBarViewController.nib
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/MainWindow.nib
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/PkgInfo
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/ResourceRules.plist
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/jwarren-Lana_Lopez.jpg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/wall_1613.jpeg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/wall_1613.png.jpeg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/wall_1988.png.jpeg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/wall_1990.png.jpeg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/wall_2044.png.jpeg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/wall_2052.png.jpeg
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/MPSlideBar.xcent
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/CustomView.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/MPSlideBar
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/MPSlideBar.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/MPSlideBarAppDelegate.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/MPSlideBarViewController.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/Thumbnail.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/CustomView.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/MPSlideBar
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/MPSlideBar.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/MPSlideBarAppDelegate.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/MPSlideBarViewController.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/Thumbnail.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/macuser/MPSlideBar/images/1.jpg
+c000000004C7495BB00000000000076BA
+t1282708923
+s30394
+
+N/Users/macuser/MPSlideBar/images/2.jpg
+c000000004C74950C0000000000008CB9
+t1282708748
+s36025
+
+N/Users/macuser/MPSlideBar/images/3.jpg
+c000000004C7494D90000000000004BBA
+t1282708697
+s19386
+
+N/Users/macuser/MPSlideBar/images/4.jpg
+c000000004C7494C70000000000003FBD
+t1282708679
+s16317
+
+N/Users/macuser/MPSlideBar/images/5.jpg
+c000000004C7494F400000000000042E7
+t1282708724
+s17127
+
+N/Users/macuser/MPSlideBar/images/6.jpg
+c000000004C7494E600000000000028B5
+t1282708710
+s10421
+
+N/Users/macuser/MPSlideBar/images/jwarren-Lana_Lopez.jpg
+c000000004C7495BB00000000000076BA
+t1282708923
+s30394
+
+N/Users/macuser/MPSlideBar/images/wall_1613.jpeg
+c000000004C74950C0000000000008CB9
+t1282708748
+s36025
+
+N/Users/macuser/MPSlideBar/images/wall_1613.png.jpeg
+c000000004C74950C0000000000008CB9
+t1282708748
+s36025
+
+N/Users/macuser/MPSlideBar/images/wall_1988.png.jpeg
+c000000004C7494D90000000000004BBA
+t1282708697
+s19386
+
+N/Users/macuser/MPSlideBar/images/wall_1990.png.jpeg
+c000000004C7494C70000000000003FBD
+t1282708679
+s16317
+
+N/Users/macuser/MPSlideBar/images/wall_2044.png.jpeg
+c000000004C7494F400000000000042E7
+t1282708724
+s17127
+
+N/Users/macuser/MPSlideBar/images/wall_2052.png.jpeg
+c000000004C7494E600000000000028B5
+t1282708710
+s10421
+
+N/Users/macuser/MPSlideBar/main.m
+c000000004C7482AC0000000000000165
+t1282704044
+s357
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/src/CustomView.h
+c000000004C749A580000000000000271
+t1282710104
+s625
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macuser/MPSlideBar/src/CustomView.m
+c000000004C749BBE0000000000001104
+t1282710462
+s4356
+i"CustomView.h"
+i<QuartzCore/QuartzCore.h>
+i"Thumbnail.h"
+
+N/Users/macuser/MPSlideBar/src/Thumbnail.h
+c000000004C6D9E4C0000000000000143
+t1282252364
+s323
+i<Foundation/Foundation.h>
+
+N/Users/macuser/MPSlideBar/src/Thumbnail.m
+c000000004C7435C400000000000007A9
+t1282684356
+s1961
+i"Thumbnail.h"
+i"UIImageExtras.h"
+
+N/var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-acjnmslwazkmbtddkivoqcezxzyg/MPSlideBar_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-bthgkopzjfkyxdbwcvkkepierldp/MPSlideBar_Prefix.pch.gch
+t2
+s0
+
+NMPSlideBar-Info.plist
+c000000004C7482AC000000000000038D
+t1282704044
+s909
+
+CCodeSign /Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/CustomView.o /Users/macuser/MPSlideBar/CustomView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/CustomView.o /Users/macuser/MPSlideBar/src/CustomView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/MPSlideBarAppDelegate.o /Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/MPSlideBarViewController.o /Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/Thumbnail.o /Users/macuser/MPSlideBar/Thumbnail.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/Thumbnail.o /Users/macuser/MPSlideBar/src/Thumbnail.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/main.o /Users/macuser/MPSlideBar/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/CustomView.o /Users/macuser/MPSlideBar/CustomView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/CustomView.o /Users/macuser/MPSlideBar/src/CustomView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/MPSlideBarAppDelegate.o /Users/macuser/MPSlideBar/Classes/MPSlideBarAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/MPSlideBarViewController.o /Users/macuser/MPSlideBar/Classes/MPSlideBarViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/Thumbnail.o /Users/macuser/MPSlideBar/Thumbnail.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/Thumbnail.o /Users/macuser/MPSlideBar/src/Thumbnail.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/main.o /Users/macuser/MPSlideBar/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/macuser/MPSlideBar/MPSlideBarViewController.xib
+r0
+
+CCompileXIB /Users/macuser/MPSlideBar/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/1.jpg images/1.jpg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/2.jpg images/2.jpg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/3.jpg images/3.jpg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/4.jpg images/4.jpg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/5.jpg images/5.jpg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/6.jpg images/6.jpg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/ResourceRules.plist "/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist"
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/jwarren-Lana_Lopez.jpg images/jwarren-Lana_Lopez.jpg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/wall_1613.jpeg images/wall_1613.jpeg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/wall_1613.png.jpeg images/wall_1613.png.jpeg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/wall_1988.png.jpeg images/wall_1988.png.jpeg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/wall_1990.png.jpeg images/wall_1990.png.jpeg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/wall_2044.png.jpeg images/wall_2044.png.jpeg
+r0
+
+CCpResource build/Debug-iphoneos/MPSlideBar.app/wall_2052.png.jpeg images/wall_2052.png.jpeg
+r0
+
+CCreateUniversalBinary /Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/MPSlideBar normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app.dSYM /Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/MPSlideBar
+r0
+
+CLd /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv6/MPSlideBar normal armv6
+r0
+
+CLd /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/Objects-normal/armv7/MPSlideBar normal armv7
+r0
+
+CProcessInfoPlistFile /Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/Info.plist MPSlideBar-Info.plist
+r0
+
+CProcessPCH /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-acjnmslwazkmbtddkivoqcezxzyg/MPSlideBar_Prefix.pch.gch MPSlideBar_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/tT/tTF7PTzeHRCPHP1fIIFGck+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MPSlideBar_Prefix-bthgkopzjfkyxdbwcvkkepierldp/MPSlideBar_Prefix.pch.gch MPSlideBar_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Developer 4.0/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist" /Users/macuser/MPSlideBar/build/MPSlideBar.build/Debug-iphoneos/MPSlideBar.build/MPSlideBar.xcent
+r0
+
+CProcessProductPackaging "/Users/macuser/Library/MobileDevice/Provisioning Profiles/85D6E962-E683-4E1C-AF4F-A09366D2E58E.mobileprovision" /Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app/embedded.mobileprovision
+r0
+
+CTouch /Users/macuser/MPSlideBar/build/Debug-iphoneos/MPSlideBar.app
+r0
+
